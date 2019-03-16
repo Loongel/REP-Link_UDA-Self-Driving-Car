@@ -1,0 +1,81 @@
+[submodule "CarND-MPC-Quizzes"]
+	path = CarND-MPC-Quizzes
+	url = https://github.com/udacity/CarND-MPC-Quizzes
+[submodule "CarND-Behavioral-Cloning-P3"]
+	path = CarND-Behavioral-Cloning-P3
+	url = https://github.com/udacity/CarND-Behavioral-Cloning-P3
+[submodule "CarND-MPC-Project"]
+	path = CarND-MPC-Project
+	url = https://github.com/udacity/CarND-MPC-Project
+[submodule "CarND-Vehicle-Detection"]
+	path = CarND-Vehicle-Detection
+	url = https://github.com/udacity/CarND-Vehicle-Detection
+[submodule "CarND-Advanced-Lane-Lines"]
+	path = CarND-Advanced-Lane-Lines
+	url = https://github.com/udacity/CarND-Advanced-Lane-Lines
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = https://github.com/udacity/CarND-LaneLines-P1
+[submodule "CarND-Capstone"]
+	path = CarND-Capstone
+	url = https://github.com/udacity/CarND-Capstone
+[submodule "CarND-Semantic-Segmentation"]
+	path = CarND-Semantic-Segmentation
+	url = https://github.com/udacity/CarND-Semantic-Segmentation
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+[submodule "CarND-Path-Planning-Project"]
+	path = CarND-Path-Planning-Project
+	url = https://github.com/udacity/CarND-Path-Planning-Project
+[submodule "CarND-Kidnapped-Vehicle-Project"]
+	path = CarND-Kidnapped-Vehicle-Project
+	url = https://github.com/udacity/CarND-Kidnapped-Vehicle-Project
+[submodule "CarND-PID-Control-Project"]
+	path = CarND-PID-Control-Project
+	url = https://github.com/udacity/CarND-PID-Control-Project
+[submodule "CarND-Extended-Kalman-Filter-Project"]
+	path = CarND-Extended-Kalman-Filter-Project
+	url = https://github.com/udacity/CarND-Extended-Kalman-Filter-Project
+[submodule "CarND-Camera-Calibration"]
+	path = CarND-Camera-Calibration
+	url = https://github.com/udacity/CarND-Camera-Calibration
+[submodule "CarND-Term1-Starter-Kit"]
+	path = CarND-Term1-Starter-Kit
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit
+[submodule "CarND-Unscented-Kalman-Filter-Project"]
+	path = CarND-Unscented-Kalman-Filter-Project
+	url = https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project
+[submodule "CarND-Alexnet-Feature-Extraction"]
+	path = CarND-Alexnet-Feature-Extraction
+	url = https://github.com/udacity/CarND-Alexnet-Feature-Extraction
+[submodule "CarND-LeNet-Lab"]
+	path = CarND-LeNet-Lab
+	url = https://github.com/udacity/CarND-LeNet-Lab
+[submodule "CarND-TensorFlow-Lab"]
+	path = CarND-TensorFlow-Lab
+	url = https://github.com/udacity/CarND-TensorFlow-Lab
+[submodule "CarND-Transfer-Learning-Lab"]
+	path = CarND-Transfer-Learning-Lab
+	url = https://github.com/udacity/CarND-Transfer-Learning-Lab
+[submodule "CarND-Mercedes-SF-Utilities"]
+	path = CarND-Mercedes-SF-Utilities
+	url = https://github.com/udacity/CarND-Mercedes-SF-Utilities
+[submodule "CarND-Object-Detection-Lab"]
+	path = CarND-Object-Detection-Lab
+	url = https://github.com/udacity/CarND-Object-Detection-Lab
+[submodule "CarND-Functional-Safety-Project"]
+	path = CarND-Functional-Safety-Project
+	url = https://github.com/udacity/CarND-Functional-Safety-Project
+[submodule "CarND-Keras-Lab"]
+	path = CarND-Keras-Lab
+	url = https://github.com/udacity/CarND-Keras-Lab
+[submodule "CarND-Catch-Run-Away-Car-UKF"]
+	path = CarND-Catch-Run-Away-Car-UKF
+	url = https://github.com/udacity/CarND-Catch-Run-Away-Car-UKF
+[submodule "CarND-Term1-Starter-Kit-Test"]
+	path = CarND-Term1-Starter-Kit-Test
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit-Test
+[submodule "CarND-TensorFlow-Lab-Fork"]
+	path = CarND-TensorFlow-Lab-Fork
+	url = https://github.com/udacity/CarND-TensorFlow-Lab-Fork
